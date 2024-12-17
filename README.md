@@ -8,3 +8,5 @@
 [2024-金科杯-hackQL](2024-金科杯-hackQL/2024-金科杯-hackQL.md "2024-金科杯-hackQL")
 
 [P牛-Code-Breaking Puzzles-javacon](<P牛-Code-Breaking Puzzles-javac/P牛-Code-Breaking Puzzles-javacon.md> "P牛-Code-Breaking Puzzles-javacon")
+
+[2024-移动大比武-数据无价](<2024-移动大比武-数据无价> "2024-移动大比武-数据无价")
