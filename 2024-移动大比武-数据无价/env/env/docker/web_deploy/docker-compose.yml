@@ -1,0 +1,7 @@
+version: "3"
+services: 
+  taskdemo: 
+    build: .
+    image: wa1ki0g/ctf_web
+    ports: 
+      - "8080:8080"
