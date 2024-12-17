@@ -1,6 +1,6 @@
 # Java-ctf
 
-一些出的和做过的java题，wp和环境都全的，方便给别人讲东西的时候做demo了
+一些出的和做过的java题，wp和环境都全的，方便给别人讲东西的时候当demo了
 
 
 [2024-国城杯-Easy Jelly](<2024-国城杯-Easy Jelly/2024-国城杯-Easy Jelly.md> "2024-国城杯-Easy Jelly")
