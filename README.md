@@ -11,4 +11,6 @@
 
 [2024-移动大比武-数据无价](<2024-移动大比武-数据无价> "2024-移动大比武-数据无价")
 
-[ciscn2024-ezjava](<ciscn2024-ezjava/ciscn2024-ezjava.md> "2024-移动大比武-数据无价")
+[ciscn2024-ezjava](<ciscn2024-ezjava/ciscn2024-ezjava.md> "ciscn2024-ezjava")
+
+[VNCTF-2022-ezjava](<VNCTF-2022-ezjava/VNCTF 2022-ezjava.md> "VNCTF-2022-ezjava")
