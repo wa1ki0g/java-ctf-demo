@@ -4,8 +4,8 @@
 
 
 
-**javaSec-Servlet的线程安全问题
-**刚开始有个任意文件读取，直接读Servlet文件反编译下先看HelloWorldServlet：
+javaSec-Servlet的线程安全问题
+刚开始有个任意文件读取，直接读Servlet文件反编译下先看HelloWorldServlet：
 
 ```java
 //
